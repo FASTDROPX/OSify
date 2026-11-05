@@ -1,0 +1,11 @@
+OSify operating-system tiles (0.4.1)
+
+Windows Bloom: Microsoft Corporation. Downloaded from the Windows wallpaper collection at https://github.com/viridivn/windows11wallpapers/blob/master/Windows/img19.jpg . A reduced 960px WebP copy is included for identifying the operating system. Not an original OSify image; no open-source license or Microsoft endorsement is claimed. Windows is a Microsoft trademark.
+
+Ubuntu wallpaper: Ubuntu community / Canonical; warty-final-ubuntu.png, https://git.launchpad.net/ubuntu-wallpapers/plain/warty-final-ubuntu.png . License CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/ . Included as a reduced WebP. Full upstream attribution/copyright list is supplied in docs/artwork/ubuntu-wallpapers-copyright.txt with source distribution. Ubuntu is a Canonical trademark.
+
+Alpine tile mountain photograph: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b . Unsplash license, https://unsplash.com/license . Included as a reduced WebP. It illustrates an Alpine environment and is not an official Alpine wallpaper.
+
+Ubuntu and Alpine marks: Simple Icons, CC0, https://github.com/simple-icons/simple-icons/tree/develop/icons (ubuntu.svg and alpinelinux.svg). Converted to Android vector drawables. Trademarks remain with their respective owners.
+
+The terminal illustration and tile layouts are original OSify UI. These pictures are decorative; they do not show a running guest or certify that an imported image boots.

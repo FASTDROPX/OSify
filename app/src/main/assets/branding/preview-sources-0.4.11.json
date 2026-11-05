@@ -1,0 +1,288 @@
+[
+  {
+    "index": 1,
+    "key": "windows7",
+    "name": "Windows 7",
+    "source": "User attachment",
+    "source_file": "codex-clipboard-0c845357-ab16-4185-9321-1c70d0af67ed.jpg",
+    "original": "third_party/artwork-0.4.11/windows7.jpg",
+    "original_sha256": "9bdc384ed3fe5a95f9f542a695fa3bc451fc78d80f641b07e7cd4892b7f6ad08",
+    "original_size": [
+      596,
+      335
+    ],
+    "asset": "app/src/main/assets/branding/windows7-cover.webp",
+    "size": [
+      596,
+      335
+    ],
+    "sha256": "efe9a8d27e9549ecc354fd026dd0ab00d985a14dd9927729ed4e32f32e4ee6ce",
+    "bytes": 14388,
+    "changes": "Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.",
+    "license": "User-provided artwork; no new license or third-party permission asserted."
+  },
+  {
+    "index": 2,
+    "key": "windows10",
+    "name": "Windows 10 / Tiny10",
+    "source": "User attachment",
+    "source_file": "codex-clipboard-c2a29e1c-34d2-4788-b18b-ca35db03678a.jpg",
+    "original": "third_party/artwork-0.4.11/windows10.jpg",
+    "original_sha256": "1f817a6236e453fc9d7ef659c7f53a887514dea105fda08dbd0d3ae40dc2d81a",
+    "original_size": [
+      3840,
+      2160
+    ],
+    "asset": "app/src/main/assets/branding/windows10-cover.webp",
+    "size": [
+      1536,
+      864
+    ],
+    "sha256": "78ccc733cebadfb49e75bd5209c4ae890b21a951487da5cbb0ecfffe76cb1bb2",
+    "bytes": 33194,
+    "changes": "Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.",
+    "license": "User-provided artwork; no new license or third-party permission asserted."
+  },
+  {
+    "index": 3,
+    "key": "alpine",
+    "name": "Alpine Linux",
+    "source": "User attachment",
+    "source_file": "codex-clipboard-a782c3ee-21c4-4fa2-ba1c-b7343f07fa95.jpg",
+    "original": "third_party/artwork-0.4.11/alpine.jpg",
+    "original_sha256": "ad8c26b10df63fc446ebfbdbe3e8b1fe7ecd5e12c070e13423242d75433ada01",
+    "original_size": [
+      2000,
+      1125
+    ],
+    "asset": "app/src/main/assets/branding/alpine-cover.webp",
+    "size": [
+      1536,
+      864
+    ],
+    "sha256": "c828a39d8897a0445b2cb5701ec142b69631e48c93f45aef1bb437667ec8bae6",
+    "bytes": 239006,
+    "changes": "Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.",
+    "license": "User-provided artwork; no new license or third-party permission asserted."
+  },
+  {
+    "index": 4,
+    "key": "alma",
+    "name": "AlmaLinux",
+    "source": "User attachment",
+    "source_file": "codex-clipboard-ceaaf230-ce04-46bb-8081-b4a546c34ff7.jpg",
+    "original": "third_party/artwork-0.4.11/alma.jpg",
+    "original_sha256": "21df68ef0a5ee86f8ad8fb98cb53a877609e28d2b1215aa7a809b1958a43cec4",
+    "original_size": [
+      1435,
+      616
+    ],
+    "asset": "app/src/main/assets/branding/alma-cover.webp",
+    "size": [
+      1435,
+      616
+    ],
+    "sha256": "1cb37cf82cff1d2f38b162809bc09b741f0d7a647438a1defc4fe18bf7ae23bf",
+    "bytes": 24088,
+    "changes": "Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.",
+    "license": "User-provided artwork; no new license or third-party permission asserted."
+  },
+  {
+    "index": 5,
+    "key": "antix",
+    "name": "antiX Linux",
+    "source": "User attachment",
+    "source_file": "codex-clipboard-c759ac3c-d937-4d10-b3db-a39bdd882703.jpg",
+    "original": "third_party/artwork-0.4.11/antix.jpg",
+    "original_sha256": "1eb3a144236d35c4ecbfea89e8fc33f9e300ecfdc62b5e70cdd20a8662d2a0af",
+    "original_size": [
+      2560,
+      1707
+    ],
+    "asset": "app/src/main/assets/branding/antix-cover.jpg",
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "715e49f44bd9049e22df775de2abb6a078d9e3baf30366bb506da9eea3b4251a",
+    "bytes": 194252,
+    "changes": "Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.",
+    "license": "User-provided artwork; no new license or third-party permission asserted."
+  },
+  {
+    "index": 6,
+    "key": "archlinux",
+    "name": "Arch Linux",
+    "source": "User attachment",
+    "source_file": "codex-clipboard-490cdf87-7a99-41f8-b2d9-3fa831115421.png",
+    "original": "third_party/artwork-0.4.11/archlinux.png",
+    "original_sha256": "97656b2c562c3132d8be2bb31579340e5a8306190874c835af6a77a5bb9f8c13",
+    "original_size": [
+      1920,
+      1080
+    ],
+    "asset": "app/src/main/assets/branding/archlinux-cover.jpg",
+    "size": [
+      1536,
+      864
+    ],
+    "sha256": "48f83dbb6b51394f057480f00ea5649529754a41578b491585c7d55afe4095d2",
+    "bytes": 65718,
+    "changes": "Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.",
+    "license": "User-provided artwork; no new license or third-party permission asserted."
+  },
+  {
+    "index": 7,
+    "key": "artixlinux",
+    "name": "Artix Linux",
+    "source": "User attachment",
+    "source_file": "codex-clipboard-8e3cf798-d634-4eb5-bc63-08994ad15cff.jpg",
+    "original": "third_party/artwork-0.4.11/artixlinux.jpg",
+    "original_sha256": "a2b7f9c3cadc10fefbd0a1eb4f94edddbdeaa6dc2e177ce4777bf03bdf3421bc",
+    "original_size": [
+      1280,
+      720
+    ],
+    "asset": "app/src/main/assets/branding/artixlinux-cover.webp",
+    "size": [
+      1280,
+      720
+    ],
+    "sha256": "dc5d9727d1c2f88dfb39c00cd5c2a98310063739863eddbb06ca5b5018553de2",
+    "bytes": 15708,
+    "changes": "Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.",
+    "license": "User-provided artwork; no new license or third-party permission asserted."
+  },
+  {
+    "index": 8,
+    "key": "cachyos",
+    "name": "CachyOS",
+    "source": "User attachment",
+    "source_file": "codex-clipboard-fc198cb0-1771-47eb-8969-79e31065da2e.jpg",
+    "original": "third_party/artwork-0.4.11/cachyos.jpg",
+    "original_sha256": "773821172ca990c390d86c68b396484da2719cd74dd405e2a69a4714213896d0",
+    "original_size": [
+      6830,
+      3840
+    ],
+    "asset": "app/src/main/assets/branding/cachyos-cover.webp",
+    "size": [
+      1536,
+      864
+    ],
+    "sha256": "7d48429c0de7df32cc61c724f9c4d3d08ba412d2e0064441cca8e51d50d3f8f2",
+    "bytes": 22876,
+    "changes": "Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.",
+    "license": "User-provided artwork; no new license or third-party permission asserted."
+  },
+  {
+    "index": 9,
+    "key": "chimeralinux",
+    "name": "Chimera Linux",
+    "source": "User attachment",
+    "source_file": "codex-clipboard-3f270d5b-1af5-4105-99cf-a3f5ae210836.png",
+    "original": "third_party/artwork-0.4.11/chimeralinux.png",
+    "original_sha256": "b983ca0bad2c76c25398845facbe7afe88da2fb625e923fc853fdbe57f88799d",
+    "original_size": [
+      2560,
+      1600
+    ],
+    "asset": "app/src/main/assets/branding/chimeralinux-cover.webp",
+    "size": [
+      1536,
+      960
+    ],
+    "sha256": "99ea2d70c88debeb8d89507114cc58f9b24dde184c2bced6821010d4b792cd4e",
+    "bytes": 57938,
+    "changes": "Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.",
+    "license": "User-provided artwork; no new license or third-party permission asserted."
+  },
+  {
+    "index": 10,
+    "key": "edubuntu",
+    "name": "Edubuntu",
+    "source": "User attachment",
+    "source_file": "codex-clipboard-8af29ed0-1c3c-4584-98a2-f4e250c0bc2b.webp",
+    "original": "third_party/artwork-0.4.11/edubuntu.webp",
+    "original_sha256": "68361fc8580b09a0f7de1c279383c3b3a18fb8e0a99008413b8245a2f1c1ac95",
+    "original_size": [
+      300,
+      188
+    ],
+    "asset": "app/src/main/assets/branding/edubuntu-cover.jpg",
+    "size": [
+      300,
+      188
+    ],
+    "sha256": "d21db5ecbcf9cbf0602f76962051d1db50e9428bf17fc4ad7c80fb2d6db78de3",
+    "bytes": 11542,
+    "changes": "Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.",
+    "license": "User-provided artwork; no new license or third-party permission asserted."
+  },
+  {
+    "index": 11,
+    "key": "fedora",
+    "name": "Fedora",
+    "source": "User attachment",
+    "source_file": "codex-clipboard-45a27b50-b347-4e0d-8b34-bc892c4e4217.jpg",
+    "original": "third_party/artwork-0.4.11/fedora.jpg",
+    "original_sha256": "01b1f412d8c96557c5910c64bddeeaa3ff884ee707f083f704dba98a488c2159",
+    "original_size": [
+      500,
+      375
+    ],
+    "asset": "app/src/main/assets/branding/fedora-cover.jpg",
+    "size": [
+      500,
+      375
+    ],
+    "sha256": "34f11493db2b5ec3b38ed8d7263210501fb7d1d2685f3b460156e0a732984c10",
+    "bytes": 37338,
+    "changes": "Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.",
+    "license": "User-provided artwork; no new license or third-party permission asserted."
+  },
+  {
+    "index": 12,
+    "key": "freedos",
+    "name": "FreeDOS",
+    "source": "User attachment",
+    "source_file": "codex-clipboard-6d6abbd5-2d5e-4eaa-901c-dc9f6838150e.png",
+    "original": "third_party/artwork-0.4.11/freedos.png",
+    "original_sha256": "7ae936a9f365f3581f6cc78d3ccae614d824e286202bdb8a11c100ca9aaafa4d",
+    "original_size": [
+      720,
+      400
+    ],
+    "asset": "app/src/main/assets/branding/freedos-cover.webp",
+    "size": [
+      720,
+      400
+    ],
+    "sha256": "672a1c25eaf0279aab15a2d896e7c097d82fabfa69423e99cdcaa88c1e79761e",
+    "bytes": 4072,
+    "changes": "Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.",
+    "license": "User-provided artwork; no new license or third-party permission asserted."
+  },
+  {
+    "index": 13,
+    "key": "ubuntu_server",
+    "name": "Ubuntu Server",
+    "source": "User attachment",
+    "source_file": "codex-clipboard-178924df-e6bc-4e45-b8c1-a546693862fe.jpg",
+    "original": "third_party/artwork-0.4.11/ubuntu_server.jpg",
+    "original_sha256": "5e02dbc0d9756850b123d8e296897701365842469deedb8a5e099a4cd8b0d0d7",
+    "original_size": [
+      596,
+      335
+    ],
+    "asset": "app/src/main/assets/branding/ubuntu_server-cover.webp",
+    "size": [
+      596,
+      335
+    ],
+    "sha256": "cd5ffd9bc055ca9abb1c6443a5bfa56c9bd72ce262bd92b96f22d108655eeb89",
+    "bytes": 16810,
+    "changes": "Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.",
+    "license": "User-provided artwork; no new license or third-party permission asserted."
+  }
+]

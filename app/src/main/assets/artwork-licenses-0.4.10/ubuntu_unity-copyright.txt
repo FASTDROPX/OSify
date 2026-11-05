@@ -1,0 +1,97 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Ubuntu Unity Backgrounds
+Source: This package doesn't have any upstream source.
+
+Files:
+ ubuntu-unity/1.png
+ ubuntu-unity/2.png
+ ubuntu-unity/ubuntu_unity_questing.png
+Copyright: 2025 Rudra Saraswat <rs2009@ubuntu.com>
+License: GPL-3+
+
+
+Files:
+ 30_background.gschema.override
+ debian/changelog
+ debian/control
+ debian/copyright
+ debian/install
+ debian/rules
+ debian/source/format
+ ubuntu-unity.xml
+Copyright: 2026 Tomasz Jeruzalski <tomekdev17@gmail.com>
+License: GPL-3+
+
+
+Files:
+ ubuntu-unity/aura_day.png
+ ubuntu-unity/aura_night.png
+ ubuntu-unity/ubuntu-unity-default.png
+ ubuntu-unity/unity_humanity.png
+ ubuntu-unity/unity_resolute_raccoon.png
+Copyright: 2026 Ariel Closs Novais <floatingfloatskies@protonmail.com>
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, version 3.
+ .
+ This program is distributed in the hope that it will be useful, but
+ WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+ General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <https://www.gnu.org/licenses/>.
+ .
+  On Debian systems, the full text of the GNU General Public
+  License version 3+ can be found in the file
+  `/usr/share/common-licenses/GPL-3'.
+
+ 
+Files:
+ ubuntu-unity/raccoon_close_chris_ensminger.jpg
+Copyright: 2021 Chris Ensminger <https://unsplash.com/@viramedio>
+License: Unsplash
+
+
+Files:
+ ubuntu-unity/raccoon_digging_henry_dinardo.jpg
+Copyright: 2020 Henry Dinardo <https://unsplash.com/@gradybaby>
+License: Unsplash
+
+
+Files:
+ ubuntu-unity/raccoon_sneaking_fr0ggy5.jpg
+Copyright: 2024 fr0ggy5 <https://unsplash.com/@fr0oggy5
+License: Unsplash
+
+
+License: GPL-3+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3+ can be found in the file
+ `/usr/share/common-licenses/GPL-3+'.
+
+
+License: Unsplash
+ Unsplash grants you an irrevocable, nonexclusive, worldwide copyright
+ license to download, copy, modify, distribute, perform, and use
+ images from Unsplash for free, including for commercial purposes,
+ without permission from or attributing the photographer or Unsplash.
+ .
+ This license does not include the right to compile images from
+ Unsplash to replicate a similar or competing service.
+ .
+ License source can be found at <https://unsplash.com/license>.

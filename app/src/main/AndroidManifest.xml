@@ -1,0 +1,30 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+    <!-- Optional external engine only; requested after explicit setup consent. -->
+    <uses-permission android:name="com.termux.permission.RUN_COMMAND" />
+    <queries><package android:name="com.termux" /></queries>
+    <application android:name=".OsifyApplication" android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher" android:roundIcon="@mipmap/ic_launcher"
+        android:theme="@style/Theme.OSify" android:allowBackup="false" android:dataExtractionRules="@xml/backup_rules" android:supportsRtl="true"
+        android:pageSizeCompat="enabled" android:extractNativeLibs="true" android:usesCleartextTraffic="false" android:localeConfig="@xml/locales_config">
+        <activity android:name=".MainActivity" android:configChanges="uiMode" android:exported="true" android:theme="@style/Theme.OSify.Starting" android:windowSoftInputMode="adjustResize">
+            <intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter>
+        </activity>
+        <service android:name=".engine.QemuService" android:process=":qemu" android:exported="false" android:foregroundServiceType="specialUse"><property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE" android:value="User-started local virtual machine CPU emulation" /></service>
+        <receiver android:name=".engine.VmResultReceiver" android:exported="false" />
+        <activity android:name=".engine.GuestConsoleActivity" android:windowSoftInputMode="adjustResize" android:exported="false" android:supportsPictureInPicture="true" android:resizeableActivity="true" android:launchMode="singleTask" android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout|keyboardHidden" />
+        <provider android:name="androidx.core.content.FileProvider" android:authorities="${applicationId}.logs" android:exported="false" android:grantUriPermissions="true"><meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/vm_log_paths" /></provider>
+        <service android:name=".engine.ImageBridgeService" android:exported="false" android:foregroundServiceType="dataSync" />
+        <receiver android:name=".engine.TermuxResultReceiver" android:exported="false" />
+        <receiver android:name=".download.PauseTransferReceiver" android:exported="false" />
+        <service android:name="androidx.work.impl.foreground.SystemForegroundService" android:foregroundServiceType="dataSync" tools:node="merge" />
+        <provider android:name="androidx.startup.InitializationProvider" android:authorities="${applicationId}.androidx-startup" tools:node="merge">
+            <meta-data android:name="androidx.work.WorkManagerInitializer" tools:node="remove" />
+        </provider>
+    </application>
+</manifest>

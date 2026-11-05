@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OSify</string>
+    <string name="download_channel">Загрузка образов</string>
+    <string name="download_active">Загрузка и проверка образа ОС</string>
+    <string name="cancel">Приостановить</string>
+    <string name="runtime_preparing">Подготовка QEMU и выбранного ISO</string>
+    <string name="runtime_cancel_transfer">Отменить передачу</string>
+</resources>

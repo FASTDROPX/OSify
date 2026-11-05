@@ -1,0 +1,268 @@
+[
+  {
+    "key": "artixlinux",
+    "asset": "app/src/main/assets/branding/artixlinux-cover.webp",
+    "source": "https://github.com/artix-linux/artwork/blob/master/backgrounds/Artix_wallpaper.png",
+    "author": "Artix Linux artwork contributors",
+    "license": "No explicit artwork license found",
+    "original": "third_party/artwork-0.4.10/artixlinux.png",
+    "original_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1536,
+      864
+    ],
+    "sha256": "79367649d69228654a38b267790cf797b4a2d04f92fe5ab26651862a16486400",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": "Official project repository; redistribution permission remains unconfirmed."
+  },
+  {
+    "key": "chimeralinux",
+    "asset": "app/src/main/assets/branding/chimeralinux-cover.webp",
+    "source": "https://github.com/chimera-linux/chimera-artwork/blob/master/breeze-previews/breeze-fullscreenpreview.jpg",
+    "author": "Chimera Linux artwork contributors",
+    "license": "CC-BY-SA-4.0",
+    "original": "third_party/artwork-0.4.10/chimeralinux.jpg",
+    "original_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1536,
+      864
+    ],
+    "sha256": "15ac54dc26431a9bae872fb6e80da8d32ae8135fc8bd972a99ef1417d6b92cdb",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": ""
+  },
+  {
+    "key": "debian",
+    "asset": "app/src/main/assets/branding/debian-cover.jpg",
+    "source": "https://deb.debian.org/debian/pool/main/d/desktop-base/desktop-base_13.0.4_all.deb",
+    "author": "Elise Couper (Ceratopsian)",
+    "license": "GPL-2.0-or-later",
+    "original": "third_party/artwork-0.4.10/debian.png",
+    "original_size": [
+      1920,
+      1200
+    ],
+    "size": [
+      1536,
+      960
+    ],
+    "sha256": "88626a7916c481959e6df697f8d9888ab09a80c03411ef24b79890af3c71ecb0",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": "Debian 13 official theme; not an unrelated old Debian 5 wallpaper."
+  },
+  {
+    "key": "devuan",
+    "asset": "app/src/main/assets/branding/devuan-cover.webp",
+    "source": "https://git.devuan.org/devuan/desktop-base/src/branch/master/backgrounds/your-way_sapphire_1080p.png",
+    "author": "Devuan desktop-base artists (see copyright)",
+    "license": "Specific Sapphire wallpaper license not confirmed by the available desktop-base copyright notice",
+    "original": "third_party/artwork-0.4.10/devuan.png",
+    "original_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1536,
+      864
+    ],
+    "sha256": "338186815b039b9be1826451350a2d8e1d8d621aeda8ebba1160455edcdaf8b2",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": "Official Sapphire theme; version may differ from the current ISO. Upstream notice retained; do not assume a blanket open artwork license."
+  },
+  {
+    "key": "fedora",
+    "asset": "app/src/main/assets/branding/fedora-cover.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fedora_43_default_wallpaper.png",
+    "author": "Fedora Design Team",
+    "license": "CC-BY-SA-4.0",
+    "original": "third_party/artwork-0.4.10/fedora.png",
+    "original_size": [
+      4032,
+      3024
+    ],
+    "size": [
+      1536,
+      1152
+    ],
+    "sha256": "5c4fff80706e258a89c4f1cf1b5a9bb6bfc202c26b8296e2b2f8af897e9255dd",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": "Official Fedora 43 default; source upstream: https://github.com/fedoradesign/backgrounds/blob/f43-backgrounds/default/f43-01-day.jxl"
+  },
+  {
+    "key": "edubuntu",
+    "asset": "app/src/main/assets/branding/edubuntu-cover.jpg",
+    "source": "https://archive.ubuntu.com/ubuntu/pool/universe/e/edubuntu-artwork/edubuntu-wallpapers_26.04.11_all.deb",
+    "author": "Lucas George Wendt (2020)",
+    "license": "Unsplash License",
+    "original": "third_party/artwork-0.4.10/edubuntu.jpg",
+    "original_size": [
+      6000,
+      4000
+    ],
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "53d865a6b9160e19cddeaf28eb4e0ff1d811af8e6f22b6a667e56b22503996dd",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": "Actual image shipped in Edubuntu 26.04 wallpaper package."
+  },
+  {
+    "key": "garuda",
+    "asset": "app/src/main/assets/branding/garuda-cover.webp",
+    "source": "https://gitlab.com/garuda-linux/themes-and-settings/artwork/garuda-wallpapers/-/blob/master/src/garuda-wallpapers/Black%20Eagle.png",
+    "author": "Garuda Linux artwork contributors",
+    "license": "GPL-3.0",
+    "original": "third_party/artwork-0.4.10/garuda.png",
+    "original_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1536,
+      864
+    ],
+    "sha256": "e1ffe6981e6c82f58255f319ca944246e010c09ca939172d038ebf7f4a0f8376",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": ""
+  },
+  {
+    "key": "kubuntu",
+    "asset": "app/src/main/assets/branding/kubuntu-cover.jpg",
+    "source": "https://github.com/KDE/plasma-workspace-wallpapers/blob/master/Flow/contents/images/5120x2880.jpg",
+    "author": "Sandra Smukaste",
+    "license": "CC-BY-SA-4.0",
+    "original": "third_party/artwork-0.4.10/kubuntu.jpg",
+    "original_size": [
+      5120,
+      2880
+    ],
+    "size": [
+      1536,
+      864
+    ],
+    "sha256": "1ebe6a78de6e847a31625b7fff66753f8f1f11288072bea3ea599a128bbfae72",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": "KDE Plasma Flow wallpaper from upstream; not a screenshot of a different distribution."
+  },
+  {
+    "key": "lubuntu",
+    "asset": "app/src/main/assets/branding/lubuntu-cover.webp",
+    "source": "https://archive.ubuntu.com/ubuntu/pool/universe/l/lubuntu-artwork/lubuntu-artwork_26.04.3_all.deb",
+    "author": "Aaron Rainbolt / MediaMom Ministries (package notice)",
+    "license": "CC-BY-SA-4.0",
+    "original": "third_party/artwork-0.4.10/lubuntu.png",
+    "original_size": [
+      3840,
+      2160
+    ],
+    "size": [
+      1536,
+      864
+    ],
+    "sha256": "c6db54d88273062573cdd886e24ea532ab30d29d25bb787a6ecbd72cd9330fea",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": ""
+  },
+  {
+    "key": "ubuntu_studio",
+    "asset": "app/src/main/assets/branding/ubuntu_studio-cover.webp",
+    "source": "https://archive.ubuntu.com/ubuntu/pool/universe/u/ubuntustudio-look/ubuntustudio-wallpapers-resolute_26.04.12_all.deb",
+    "author": "Eylul Dogruel (2024–2026)",
+    "license": "CC-BY-SA-4.0",
+    "original": "third_party/artwork-0.4.10/ubuntu_studio.jpg",
+    "original_size": [
+      4096,
+      4096
+    ],
+    "size": [
+      1152,
+      1152
+    ],
+    "sha256": "df68e5e9f77c4e3009d1c9dc60f0686baa889bc374e82cf800ea6934ffabfa9d",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": ""
+  },
+  {
+    "key": "ubuntu_unity",
+    "asset": "app/src/main/assets/branding/ubuntu_unity-cover.webp",
+    "source": "https://archive.ubuntu.com/ubuntu/pool/universe/u/ubuntu-unity-backgrounds/ubuntu-unity-backgrounds_26.04-0ubuntu1_all.deb",
+    "author": "Ariel Closs Novais (2026)",
+    "license": "GPL-3.0",
+    "original": "third_party/artwork-0.4.10/ubuntu_unity.png",
+    "original_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1536,
+      864
+    ],
+    "sha256": "5d603d7860bd6d81079784a58c076925b00de0993d3b45a8ce739e52dc278fba",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": ""
+  },
+  {
+    "key": "ubuntu",
+    "asset": "app/src/main/res/drawable-nodpi/os_ubuntu.webp",
+    "source": "https://archive.ubuntu.com/ubuntu/pool/main/u/ubuntu-wallpapers/ubuntu-wallpapers_26.04.2_all.deb",
+    "author": "Canonical / Ubuntu Design Team",
+    "license": "CC-BY-SA-3.0; see package copyright",
+    "original": "third_party/artwork-0.4.10/ubuntu.png",
+    "original_size": [
+      3840,
+      2160
+    ],
+    "size": [
+      1536,
+      864
+    ],
+    "sha256": "f81e07731f9b1c3470b8e2c8b60b0985b3263b4cc298c390f6d60759f1e74819",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": ""
+  },
+  {
+    "key": "alpine",
+    "asset": "app/src/main/assets/branding/alpine-cover.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Alpine_Linux_Xfce_-_English.png",
+    "author": "Alpine Linux development team; uploaded by Ahunt",
+    "license": "GPL-2.0-or-later",
+    "original": "third_party/artwork-0.4.10/alpine.png",
+    "original_size": [
+      1024,
+      768
+    ],
+    "size": [
+      1024,
+      768
+    ],
+    "sha256": "a5f61d680886b8840ab33bd2d6e141a2c8502ca32bd485afbe9de4324a94b2e6",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": "2022 optional Xfce desktop, not a promise that the minimal virt ISO includes a desktop."
+  },
+  {
+    "key": "ubuntu_server",
+    "asset": "app/src/main/assets/branding/ubuntu_server-cover.webp",
+    "source": "https://documentation.ubuntu.com/server/_images/92bda8a0-basic_installation_1.png",
+    "author": "Canonical / Ubuntu Server documentation contributors",
+    "license": "CC-BY-SA-3.0 (Ubuntu documentation; verify image-specific rights)",
+    "original": "third_party/artwork-0.4.10/ubuntu_server.png",
+    "original_size": [
+      800,
+      600
+    ],
+    "size": [
+      800,
+      600
+    ],
+    "sha256": "29b75eaa3ded2f70e1326e1b3f800120e148266874dd215626552aa04bff32ad",
+    "changes": "Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.",
+    "note": "Real Subiquity installer. Kept original 800×600; never upscaled. Server has no default graphical desktop."
+  }
+]

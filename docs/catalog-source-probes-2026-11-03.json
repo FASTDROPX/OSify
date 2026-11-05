@@ -1,0 +1,226 @@
+[
+  {
+    "name": "alma",
+    "url": "https://repo.almalinux.org/almalinux/10/isos/x86_64/AlmaLinux-10-latest-x86_64-boot.iso",
+    "status": 200,
+    "final": "https://repo.almalinux.org/almalinux/10/isos/x86_64/AlmaLinux-10-latest-x86_64-boot.iso",
+    "size": "1056202752",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "alpine",
+    "url": "https://dl-cdn.alpinelinux.org/alpine/v3.24/releases/x86_64/alpine-virt-3.24.1-x86_64.iso",
+    "status": 200,
+    "final": "https://dl-cdn.alpinelinux.org/alpine/v3.24/releases/x86_64/alpine-virt-3.24.1-x86_64.iso",
+    "size": "69206016",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "antix",
+    "url": "https://sourceforge.net/projects/antix-linux/files/Final/antiX-23.2/runit-antiX-23.2/antiX-23.2-runit_x64-base.iso/download",
+    "status": 200,
+    "final": "https://master.dl.sourceforge.net/project/antix-linux/Final/antiX-23.2/runit-antiX-23.2/antiX-23.2-runit_x64-base.iso?viasf=1&fid=02345dd346325e44&e=1793807969&st=F75ZSthPqeimBqOO9wDHSw",
+    "size": "1249902592",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "archcraft",
+    "url": "https://sourceforge.net/projects/archcraft/files/v26.08/archcraft-2026.08.01-x86_64.iso/download",
+    "status": 200,
+    "final": "https://altushost-bul.dl.sourceforge.net/project/archcraft/v26.08/archcraft-2026.08.01-x86_64.iso?viasf=1&fid=879b3e20971887d0&e=1793807969&st=neeoJ0XopMrRs2Ge-OmcoQ",
+    "size": "3734601728",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "archlinux",
+    "url": "https://mirror.rackspace.com/archlinux/iso/2026.08.01/archlinux-2026.08.01-x86_64.iso",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "artixlinux",
+    "url": "https://mirrors.ocf.berkeley.edu/artix-iso/artix-base-s6-20250407-x86_64.iso",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "athenaos",
+    "url": "https://github.com/Athena-OS/athena/releases/download/v26.03/athenaos-live-x86_64.iso",
+    "status": 200,
+    "final": "https://release-assets.githubusercontent.com/github-production-release-asset/503528235/88c63622-50c3-4ee7-bf6f-f83b54e0752a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-11-03T16%3A39%3A16Z&rscd=attachment%3B+filename%3Dathenaos-live-x86_64.iso&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-11-03T15%3A38%3A36Z&ske=2026-11-03T16%3A39%3A16Z&sks=b&skv=2018-11-09&sig=6Vk5us19W6fAyMK5u40lQ8O7KRn7UgFA0rdtlM2v%2B2M%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MzcyNTE2MSwibmJmIjoxNzkzNzIxNTYxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.wUxFHvG6D_TQFDkyDVThI6Oi77k4d2j-LUyanaYZ2DU&response-content-disposition=attachment%3B%20filename%3Dathenaos-live-x86_64.iso&response-content-type=application%2Foctet-stream",
+    "size": "1781153792",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "bodhi",
+    "url": "https://sourceforge.net/projects/bodhilinux/files/7.0.0/bodhi-7.0.0-64-apppack.iso/download",
+    "status": 200,
+    "final": "https://deac-fra.dl.sourceforge.net/project/bodhilinux/7.0.0/bodhi-7.0.0-64-apppack.iso?viasf=1&fid=9eb99db6526d10e9&e=1793807962&st=nmda6GYqAzt5cMcUI5bN8A",
+    "size": "2293989376",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "cachyos",
+    "url": "https://mirror.cachyos.org/ISO/desktop/260809/cachyos-desktop-linux-260809.iso",
+    "status": 200,
+    "final": "https://mirror.cachyos.org/ISO/desktop/260809/cachyos-desktop-linux-260809.iso",
+    "size": "3188850688",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "chimeralinux",
+    "url": "https://repo.chimera-linux.org/live/latest/chimera-linux-x86_64-LIVE-20251220-base.iso",
+    "status": 200,
+    "final": "https://repo.chimera-linux.org/live/latest/chimera-linux-x86_64-LIVE-20251220-base.iso",
+    "size": "1040570368",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "debian",
+    "url": "https://cdimage.debian.org/debian-cd/13.6.0-live/amd64/iso-hybrid/debian-live-13.6.0-amd64-cinnamon.iso",
+    "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+  },
+  {
+    "name": "devuan",
+    "url": "https://files.devuan.org/devuan_daedalus/desktop-live/devuan_daedalus_5.0.0_amd64_desktop-live.iso",
+    "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+  },
+  {
+    "name": "edubuntu",
+    "url": "https://cdimage.ubuntu.com/edubuntu/releases/26.04/release/edubuntu-26.04-desktop-amd64.iso",
+    "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+  },
+  {
+    "name": "fedora",
+    "url": "https://download.fedoraproject.org/pub/alt/releases/44/Labs/x86_64/iso/Fedora-Astronomy_KDE-Live-44-1.7.x86_64.iso",
+    "status": 200,
+    "final": "https://mirror.karneval.cz/pub/linux/fedora-alt/releases/44/Labs/x86_64/iso/Fedora-Astronomy_KDE-Live-44-1.7.x86_64.iso",
+    "size": "5492764672",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "freedos",
+    "url": "https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/official/FD12CD.iso",
+    "status": 200,
+    "final": "https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/official/FD12CD.iso",
+    "size": "438777856",
+    "type": "application/x-iso9660-image"
+  },
+  {
+    "name": "garuda",
+    "url": "https://iso.builds.garudalinux.org/iso/latest/garuda/cinnamon/latest.iso",
+    "status": 200,
+    "final": "https://iso.builds.garudalinux.org/iso/garuda/cinnamon/260819/garuda-cinnamon-linux-garuda-260819.iso",
+    "size": "3332143104",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "garuda",
+    "url": "https://iso.builds.garudalinux.org/iso/latest/garuda/cinnamon/latest.iso",
+    "status": 200,
+    "final": "https://iso.builds.garudalinux.org/iso/garuda/cinnamon/260819/garuda-cinnamon-linux-garuda-260819.iso",
+    "size": "3332143104",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "gentoo",
+    "url": "https://distfiles.gentoo.org/releases/amd64/autobuilds/20260823T153057Z/livegui-amd64-20260823T153057Z.iso",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "ghostbsd",
+    "url": "https://download.ghostbsd.org/releases/amd64/24.10.1/GhostBSD-24.10.1.iso",
+    "status": 200,
+    "final": "https://download.ghostbsd.org/releases/amd64/24.10.1/GhostBSD-24.10.1.iso",
+    "size": "2798032896",
+    "type": "application/x-iso9660-image"
+  },
+  {
+    "name": "kubuntu",
+    "url": "https://cdimage.ubuntu.com/kubuntu/releases/26.04/release/kubuntu-26.04-desktop-amd64.iso",
+    "status": 200,
+    "final": "https://cdimage.ubuntu.com/kubuntu/releases/26.04/release/kubuntu-26.04-desktop-amd64.iso",
+    "size": "5068847104",
+    "type": "application/x-iso9660-image"
+  },
+  {
+    "name": "lubuntu",
+    "url": "https://cdimage.ubuntu.com/lubuntu/releases/26.04/release/lubuntu-26.04-desktop-amd64.iso",
+    "status": 200,
+    "final": "https://cdimage.ubuntu.com/lubuntu/releases/26.04/release/lubuntu-26.04-desktop-amd64.iso",
+    "size": "3918290944",
+    "type": "application/x-iso9660-image"
+  },
+  {
+    "name": "nixos",
+    "url": "https://channels.nixos.org/nixos-unstable/latest-nixos-graphical-x86_64-linux.iso",
+    "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+  },
+  {
+    "name": "ubuntu",
+    "url": "https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso",
+    "status": 200,
+    "final": "https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso",
+    "size": "6518974464",
+    "type": "application/x-iso9660-image"
+  },
+  {
+    "name": "ubuntu-budgie",
+    "url": "https://cdimage.ubuntu.com/ubuntu-budgie/releases/26.04/release/ubuntu-budgie-26.04-desktop-amd64.iso",
+    "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+  },
+  {
+    "name": "ubuntu-cinnamon",
+    "url": "https://cdimage.ubuntu.com/ubuntucinnamon/releases/26.04/release/ubuntucinnamon-26.04-desktop-amd64.iso",
+    "status": 200,
+    "final": "https://cdimage.ubuntu.com/ubuntucinnamon/releases/26.04/release/ubuntucinnamon-26.04-desktop-amd64.iso",
+    "size": "5659195392",
+    "type": "application/x-iso9660-image"
+  },
+  {
+    "name": "ubuntu-kylin",
+    "url": "https://cdimage.ubuntu.com/ubuntukylin/releases/26.04/release/ubuntukylin-26.04-desktop-amd64.iso",
+    "status": 200,
+    "final": "https://cdimage.ubuntu.com/ubuntukylin/releases/26.04/release/ubuntukylin-26.04-desktop-amd64.iso",
+    "size": "5683486720",
+    "type": "application/x-iso9660-image"
+  },
+  {
+    "name": "ubuntu-mate",
+    "url": "https://cdimage.ubuntu.com/ubuntu-mate/releases/24.04/release/ubuntu-mate-24.04.3-desktop-amd64.iso",
+    "status": 200,
+    "final": "https://cdimage.ubuntu.com/ubuntu-mate/releases/24.04/release/ubuntu-mate-24.04.3-desktop-amd64.iso",
+    "size": "4444039168",
+    "type": "application/x-iso9660-image"
+  },
+  {
+    "name": "ubuntu-server",
+    "url": "https://releases.ubuntu.com/26.04/ubuntu-26.04-live-server-amd64.iso",
+    "status": 200,
+    "final": "https://releases.ubuntu.com/26.04/ubuntu-26.04-live-server-amd64.iso",
+    "size": "2918598656",
+    "type": "application/x-iso9660-image"
+  },
+  {
+    "name": "ubuntu-studio",
+    "url": "https://cdimage.ubuntu.com/ubuntustudio/releases/24.04/release/ubuntustudio-24.04.3-dvd-amd64.iso",
+    "status": 200,
+    "final": "https://cdimage.ubuntu.com/ubuntustudio/releases/24.04/release/ubuntustudio-24.04.3-dvd-amd64.iso",
+    "size": "8211103744",
+    "type": "application/x-iso9660-image"
+  },
+  {
+    "name": "ubuntu-unity",
+    "url": "https://cdimage.ubuntu.com/ubuntu-unity/releases/26.04/release/ubuntu-unity-26.04-desktop-amd64.iso",
+    "status": 200,
+    "final": "https://cdimage.ubuntu.com/ubuntu-unity/releases/26.04/release/ubuntu-unity-26.04-desktop-amd64.iso",
+    "size": "4189728768",
+    "type": "application/x-iso9660-image"
+  },
+  {
+    "name": "xubuntu",
+    "url": "https://cdimage.ubuntu.com/xubuntu/releases/26.04/release/xubuntu-26.04-desktop-amd64.iso",
+    "status": 200,
+    "final": "https://cdimage.ubuntu.com/xubuntu/releases/26.04/release/xubuntu-26.04-desktop-amd64.iso",
+    "size": "5183416320",
+    "type": "application/x-iso9660-image"
+  }
+]

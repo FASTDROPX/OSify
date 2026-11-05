@@ -1,0 +1,539 @@
+[
+  {
+    "key": "alma",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/alma.svg",
+    "sha256": "f6f546ce491aa29a6a4d8f0fdc03d1794e419246326a4fa4e260ee36f4e9b983",
+    "bytes": 5290,
+    "asset": "branding/alma-logo.png",
+    "original": "alma-logo.svg"
+  },
+  {
+    "key": "antix",
+    "kind": "logo",
+    "url": "https://distrowatch.com/images/icon-large/antix.png",
+    "sha256": "318c55e8b2fe2949dea53b666ea006560a610edbb9d643a69f6f4a163736637e",
+    "bytes": 3194,
+    "asset": "branding/antix-logo.png",
+    "original": "antix-logo.img"
+  },
+  {
+    "key": "antix",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/antix.png",
+    "sha256": "704f4b9f4746474faa74bf459e2207da77c5091d33ce65f2db39ed3fda84cb2e",
+    "bytes": 1584723,
+    "asset": "branding/antix-cover.webp",
+    "original": "antix-cover.img"
+  },
+  {
+    "key": "archcraft",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/archcraft.svg",
+    "sha256": "1b012d6aacfc247c30ca03c9991181c22b64dea79c7351e087bf50387669b1a7",
+    "bytes": 1862,
+    "asset": "branding/archcraft-logo.png",
+    "original": "archcraft-logo.svg"
+  },
+  {
+    "key": "archcraft",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/archcraft.png",
+    "sha256": "dd037aa2ab29ea624d44548758236ea9e3e38194c63ae9a4272badd8d976aec3",
+    "bytes": 1870512,
+    "asset": "branding/archcraft-cover.webp",
+    "original": "archcraft-cover.img"
+  },
+  {
+    "key": "archlinux",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/archlinux.svg",
+    "sha256": "c1f9232b327f6ca7708621aba97311c2d1cda62df65fab9ec055265093bc4bab",
+    "bytes": 798,
+    "asset": "branding/archlinux-logo.png",
+    "original": "archlinux-logo.svg"
+  },
+  {
+    "key": "archlinux",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/arch.png",
+    "sha256": "e0bce1fa0f86feae2ec55e729a57b0494e5929907ee11c5688fa98c662a215e1",
+    "bytes": 9645,
+    "asset": "branding/archlinux-cover.webp",
+    "original": "archlinux-cover.img"
+  },
+  {
+    "key": "artixlinux",
+    "kind": "logo",
+    "url": "https://distrowatch.com/images/icon-large/artix.png",
+    "sha256": "a3b2adf01056406d60511d209ab83e994d0b8bac11253d573cd9af1935df10a7",
+    "bytes": 4271,
+    "asset": "branding/artixlinux-logo.png",
+    "original": "artixlinux-logo.img"
+  },
+  {
+    "key": "artixlinux",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/artix.png",
+    "sha256": "332572781b2187aa9d4405130d85f182c66ff98373fee87030e5a06c1dbdbc62",
+    "bytes": 940939,
+    "asset": "branding/artixlinux-cover.webp",
+    "original": "artixlinux-cover.img"
+  },
+  {
+    "key": "bodhi",
+    "kind": "cover",
+    "url": "https://raw.githubusercontent.com/BodhiDev/bodhi-backgrounds/main/bl6/Bodhi_Background/bodhi-bg.jpg",
+    "sha256": "b840db871eeb074115d740d3e837d306116b6c1c89471391f3a12714b3f344e0",
+    "bytes": 2215722,
+    "asset": "branding/bodhi-cover.webp",
+    "original": "bodhi-cover.img"
+  },
+  {
+    "key": "cachyos",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/cachyos.svg",
+    "sha256": "a35b6107511389677c075427291b62a052df9ccb8de1f69a801e1f2898dc681b",
+    "bytes": 8296,
+    "asset": "branding/cachyos-logo.png",
+    "original": "cachyos-logo.svg"
+  },
+  {
+    "key": "cachyos",
+    "kind": "cover",
+    "url": "https://raw.githubusercontent.com/CachyOS/cachyos-wallpapers/develop/usr/share/wallpapers/cachyos-wallpapers/CachyOS_GreenSpace.png",
+    "sha256": "8b62f002fc6433df57e31761fe2e143cc5730df3da4470caeb9bb66ed5b9172b",
+    "bytes": 5490383,
+    "asset": "branding/cachyos-cover.webp",
+    "original": "cachyos-cover.img"
+  },
+  {
+    "key": "chimeralinux",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/chimera-linux/chimera-linux.github.io/master/assets/chimera-logo.png",
+    "sha256": "06b8620fb869878542228b0d9d4e5332fa9f854045d139edfb977899beddd588",
+    "bytes": 15802,
+    "asset": "branding/chimeralinux-logo.png",
+    "original": "chimeralinux-logo.img"
+  },
+  {
+    "key": "chimeralinux",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/chimera.png",
+    "sha256": "f194f7abeebcf26ca581a08205c880c2cd689c25e4b9a79765ca33d6e2b8d3fe",
+    "bytes": 256373,
+    "asset": "branding/chimeralinux-cover.webp",
+    "original": "chimeralinux-cover.img"
+  },
+  {
+    "key": "debian",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/debian.svg",
+    "sha256": "ccae49000ece8f204b293b5113cb291a4f8c7eeac1ef9b6a2b441e3bc8b7d40c",
+    "bytes": 4589,
+    "asset": "branding/debian-logo.png",
+    "original": "debian-logo.svg"
+  },
+  {
+    "key": "debian",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/debian.png",
+    "sha256": "e60268f1b2af9a3f80f05a25a98216d4bbe118afc0ba090dd548f7ce9795e841",
+    "bytes": 525619,
+    "asset": "branding/debian-cover.webp",
+    "original": "debian-cover.img"
+  },
+  {
+    "key": "devuan",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/devuan.svg",
+    "sha256": "e7b674442a56c52c81627e10541418f7289aa1869cc9c4dd4f20354eac059ad1",
+    "bytes": 2039,
+    "asset": "branding/devuan-logo.png",
+    "original": "devuan-logo.svg"
+  },
+  {
+    "key": "devuan",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/devuan.png",
+    "sha256": "ce1dc513f878aff6fe963cfccbf9f47e5c49e041fbc0cc21a4323b4017ed5024",
+    "bytes": 136815,
+    "asset": "branding/devuan-cover.webp",
+    "original": "devuan-cover.img"
+  },
+  {
+    "key": "edubuntu",
+    "kind": "logo",
+    "url": "https://distrowatch.com/images/icon-large/edubuntu.png",
+    "sha256": "fcd29280522f6848329551ec6a922eb59fe4bfb788b00a0e46b86e6770ecd837",
+    "bytes": 3576,
+    "asset": "branding/edubuntu-logo.png",
+    "original": "edubuntu-logo.img"
+  },
+  {
+    "key": "edubuntu",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/edubuntu.png",
+    "sha256": "86f48261f7dbe19d866e1981fac7398848aca42117f19e57bc85d428892e5809",
+    "bytes": 4915954,
+    "asset": "branding/edubuntu-cover.webp",
+    "original": "edubuntu-cover.img"
+  },
+  {
+    "key": "fedora",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/fedora.svg",
+    "sha256": "382da48a6806c76ab30fa59255a644809d03b9b14c10756aa979c70a80c815b3",
+    "bytes": 1130,
+    "asset": "branding/fedora-logo.png",
+    "original": "fedora-logo.svg"
+  },
+  {
+    "key": "fedora",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/fedora.png",
+    "sha256": "90bad806211e5858a56cb32b61ea202f7360d1d44858757e3708124209a7d840",
+    "bytes": 1889771,
+    "asset": "branding/fedora-cover.webp",
+    "original": "fedora-cover.img"
+  },
+  {
+    "key": "freedos",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/freedos.svg",
+    "sha256": "ba2b61ea2111b3bd1390c0ecd202a736579622572b622e52d662b35b2a1a4fe1",
+    "bytes": 5761,
+    "asset": "branding/freedos-logo.png",
+    "original": "freedos-logo.svg"
+  },
+  {
+    "key": "garuda",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/garuda.svg",
+    "sha256": "2b37de6846e6fb43e80dfb1dfc8b991368c2a1c751ea06ba1e87326ef687e011",
+    "bytes": 11527,
+    "asset": "branding/garuda-logo.png",
+    "original": "garuda-logo.svg"
+  },
+  {
+    "key": "garuda",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/garuda.png",
+    "sha256": "b81431cc0b894baaf551b5eb4165634e537d8f17bccc906355d441546e2d89c6",
+    "bytes": 1478679,
+    "asset": "branding/garuda-cover.webp",
+    "original": "garuda-cover.img"
+  },
+  {
+    "key": "gentoo",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/gentoo.svg",
+    "sha256": "ccb7a28742a6a5f152757ac8c4658bbaaef76c6238c0918ac6bd23ecf485ad16",
+    "bytes": 4831,
+    "asset": "branding/gentoo-logo.png",
+    "original": "gentoo-logo.svg"
+  },
+  {
+    "key": "gentoo",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/gentoo.png",
+    "sha256": "2d284472c607f0c9b4a5f3c2ff6305390391fe4072f546b79bf217a01cce88e9",
+    "bytes": 1776454,
+    "asset": "branding/gentoo-cover.webp",
+    "original": "gentoo-cover.img"
+  },
+  {
+    "key": "ghostbsd",
+    "kind": "logo",
+    "url": "https://distrowatch.com/images/icon-large/ghostbsd.png",
+    "sha256": "d573870138666adc0f267afcf8afff31450766c36b6616603d23ad12ac0a53de",
+    "bytes": 3281,
+    "asset": "branding/ghostbsd-logo.png",
+    "original": "ghostbsd-logo.img"
+  },
+  {
+    "key": "ghostbsd",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/ghostbsd.png",
+    "sha256": "d701d599654ab025f784ce1328729c22aecbea91dcd5c7e16c17ca4a66bd7d4a",
+    "bytes": 3679556,
+    "asset": "branding/ghostbsd-cover.webp",
+    "original": "ghostbsd-cover.img"
+  },
+  {
+    "key": "kubuntu",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/kubuntu.svg",
+    "sha256": "d5c875ee9ab67dac01d48f88d9678ba2a268ac8a00fe4be4a27fca30eefc6e00",
+    "bytes": 12582,
+    "asset": "branding/kubuntu-logo.png",
+    "original": "kubuntu-logo.svg"
+  },
+  {
+    "key": "kubuntu",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/kubuntu.png",
+    "sha256": "f2340efdc8818ffdac5918a03731ad4a6562a04766046fb054324217ef4a7824",
+    "bytes": 242386,
+    "asset": "branding/kubuntu-cover.webp",
+    "original": "kubuntu-cover.img"
+  },
+  {
+    "key": "lubuntu",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/lubuntu.svg",
+    "sha256": "c8b57793810db6b649708266c8fcfa6ed182b9aa739b5292e6c5d5103a450d39",
+    "bytes": 1899,
+    "asset": "branding/lubuntu-logo.png",
+    "original": "lubuntu-logo.svg"
+  },
+  {
+    "key": "lubuntu",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/lubuntu.png",
+    "sha256": "a96dced7d116c96efd7554ad92ff690c393cd6dcb7fd5dc5fea570f9afb686e5",
+    "bytes": 632920,
+    "asset": "branding/lubuntu-cover.webp",
+    "original": "lubuntu-cover.img"
+  },
+  {
+    "key": "nixos",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/nixos.svg",
+    "sha256": "8fe868b9915294e752c965c83a9942fa6ff1943e7a8e31183ddd763f14edef7f",
+    "bytes": 2174,
+    "asset": "branding/nixos-logo.png",
+    "original": "nixos-logo.svg"
+  },
+  {
+    "key": "nixos",
+    "kind": "cover",
+    "url": "https://raw.githubusercontent.com/NixOS/nixos-artwork/master/wallpapers/nix-wallpaper-simple-dark-gray.png",
+    "sha256": "25a2c7741c70ae984a5617ab0d57b97e087edf3a94b69730b8d6e3c2b0650289",
+    "bytes": 69449,
+    "asset": "branding/nixos-cover.webp",
+    "original": "nixos-cover.img"
+  },
+  {
+    "key": "ubuntu-budgie",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/ubuntu-budgie.svg",
+    "sha256": "ed57479c22986692d2d42898c224c9fa9a5f4681dde4e7efa94bc95fcf48e63c",
+    "bytes": 675,
+    "asset": "branding/ubuntu_budgie-logo.png",
+    "original": "ubuntu-budgie-logo.svg"
+  },
+  {
+    "key": "ubuntu-budgie",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/ubuntubudgie.png",
+    "sha256": "17ce3f57fc2225278143c2266aef6a1a86b0305767b0ddabfd352aa468ad182a",
+    "bytes": 1661780,
+    "asset": "branding/ubuntu_budgie-cover.webp",
+    "original": "ubuntu-budgie-cover.img"
+  },
+  {
+    "key": "ubuntu-cinnamon",
+    "kind": "logo",
+    "url": "https://distrowatch.com/images/icon-large/ubuntucinnamon.png",
+    "sha256": "6b4568e872483646a884ac80d06eab715f6fba030519dc097b5d70107d5d7c6f",
+    "bytes": 5019,
+    "asset": "branding/ubuntu_cinnamon-logo.png",
+    "original": "ubuntu-cinnamon-logo.img"
+  },
+  {
+    "key": "ubuntu-cinnamon",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/ubuntucinnamon.png",
+    "sha256": "6416359445122976f6e4f654e9747f127af34c64425f929e7749b7574c2bbec9",
+    "bytes": 4418233,
+    "asset": "branding/ubuntu_cinnamon-cover.webp",
+    "original": "ubuntu-cinnamon-cover.img"
+  },
+  {
+    "key": "ubuntu-kylin",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/ubuntu-kylin.svg",
+    "sha256": "f920f17782480a2d4de2713fd9db3a4cf6d3dfb88e8d969146fffd5a624fdc9a",
+    "bytes": 2419,
+    "asset": "branding/ubuntu_kylin-logo.png",
+    "original": "ubuntu-kylin-logo.svg"
+  },
+  {
+    "key": "ubuntu-kylin",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/ubuntukylin.png",
+    "sha256": "ac64ac804e45a912b73d1cf6f8045971dd9d14f0f24595e2c8f0983a94cb229d",
+    "bytes": 3126772,
+    "asset": "branding/ubuntu_kylin-cover.webp",
+    "original": "ubuntu-kylin-cover.img"
+  },
+  {
+    "key": "ubuntu-mate",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/ubuntu-mate.svg",
+    "sha256": "31631968bbf8d4b4f89ea10510373b6bcb3a7caf1ea198e526f0a5dbbbec48bd",
+    "bytes": 3406,
+    "asset": "branding/ubuntu_mate-logo.png",
+    "original": "ubuntu-mate-logo.svg"
+  },
+  {
+    "key": "ubuntu-mate",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/ubuntumate.png",
+    "sha256": "0f50d5397441fe4c9d01e94299a446be4f67d56d7f4c2edde977b210a93c46ba",
+    "bytes": 3390262,
+    "asset": "branding/ubuntu_mate-cover.webp",
+    "original": "ubuntu-mate-cover.img"
+  },
+  {
+    "key": "ubuntu-studio",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/ubuntu-studio.svg",
+    "sha256": "ae51fd3e9fd0266eb78428d2dc6b984a96853ea6f489c4762d71d77c299d2f7a",
+    "bytes": 2459,
+    "asset": "branding/ubuntu_studio-logo.png",
+    "original": "ubuntu-studio-logo.svg"
+  },
+  {
+    "key": "ubuntu-studio",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/ubuntustudio.png",
+    "sha256": "7e4cbf7addad46b184c9b1ef16e57f0533e6fad9ddf5752eaabc1ab0e921c4fe",
+    "bytes": 2572264,
+    "asset": "branding/ubuntu_studio-cover.webp",
+    "original": "ubuntu-studio-cover.img"
+  },
+  {
+    "key": "ubuntu-unity",
+    "kind": "logo",
+    "url": "https://distrowatch.com/images/icon-large/ubuntuunity.png",
+    "sha256": "592034fda33f848358296d44db6f6e909726cfa06b3c51417903011ea5475d00",
+    "bytes": 4678,
+    "asset": "branding/ubuntu_unity-logo.png",
+    "original": "ubuntu-unity-logo.img"
+  },
+  {
+    "key": "ubuntu-unity",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/ubuntuunity.png",
+    "sha256": "a36c4ce96bb179fcdf9e960c25fbbc6217161538556de4c57c3564e7900f7c2b",
+    "bytes": 3371331,
+    "asset": "branding/ubuntu_unity-cover.webp",
+    "original": "ubuntu-unity-cover.img"
+  },
+  {
+    "key": "xubuntu",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/xubuntu.svg",
+    "sha256": "11a0aa860b587c5bf2e25f1c9ad2bafa3c85f974eac76481dd07ff77865fafea",
+    "bytes": 2395,
+    "asset": "branding/xubuntu-logo.png",
+    "original": "xubuntu-logo.svg"
+  },
+  {
+    "key": "xubuntu",
+    "kind": "cover",
+    "url": "https://distrowatch.com/images/slinks/xubuntu.png",
+    "sha256": "6cc82dc38cc5a66b28e385922e83cba3ab80a431fa52bb793f2aac7e2112d0b3",
+    "bytes": 1341376,
+    "asset": "branding/xubuntu-cover.webp",
+    "original": "xubuntu-cover.img"
+  },
+  {
+    "key": "alma",
+    "kind": "cover",
+    "url": "https://almalinux.org/images/hero_1.png",
+    "asset": "branding/alma-cover.webp",
+    "sha256": "c54be4889a9acd09cbb5774fb4b944416890f788ef9fbabc747b9cabea513b49",
+    "original": "alma-cover.img"
+  },
+  {
+    "key": "athenaos",
+    "kind": "cover",
+    "url": "https://athenaos.org/_astro/athena-chibi.C4AxdAFD.png",
+    "asset": "branding/athenaos-cover.webp",
+    "sha256": "05a1b055fc88ab8ed303e00f2ee96510b6547b96062ca97ad1d8d1c53b77b764",
+    "original": "athenaos-cover.img"
+  },
+  {
+    "key": "athenaos",
+    "kind": "logo",
+    "url": "https://athenaos.org/_astro/athena-dark.zw0VuR1C.svg",
+    "asset": "branding/athenaos-logo.png",
+    "sha256": "0621d27f70c0175709b09f436c40b8f9be2ad04a4cd416ef68c0a7d731385e54",
+    "original": "athenaos-logo.svg"
+  },
+  {
+    "key": "freedos",
+    "kind": "cover",
+    "url": "https://www.freedos.org/_images/screenshots/screenshot_freedos14.png",
+    "asset": "branding/freedos-cover.webp",
+    "sha256": "4b9c7c48d7165fdc265f7e023715c541906241e99c4c6e2e185f5d2436400de5",
+    "original": "freedos-cover.img"
+  },
+  {
+    "key": "windows10",
+    "kind": "cover",
+    "url": "https://en.wikipedia.org/wiki/Windows_10",
+    "asset": "branding/windows10-cover.webp",
+    "sha256": "73ede6b1e15ec1fcdcce7e3ee93bd311d01957962e3f1a03d7822ef53ceca6bd",
+    "original": "windows10-cover.img"
+  },
+  {
+    "key": "ubuntu-server",
+    "kind": "cover",
+    "url": "https://documentation.ubuntu.com/server/_images/92bda8a0-basic_installation_1.png",
+    "asset": "branding/ubuntu_server-cover.webp",
+    "sha256": "62a7736b5f4fe4f8c7bd1e63a923d7c2998922fc50f77a5bfa1ae5f36dcc3e54",
+    "original": "ubuntu-server-cover.img"
+  },
+  {
+    "key": "ubuntu-server",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/quickemu-project/quickemu-icons/main/src/distro-icons/ubuntu.svg",
+    "asset": "branding/ubuntu_server-logo.png",
+    "sha256": "cba6f8871ea94cf28a9dcefeea7fd63e875a347dda5d5a570b875c4e5156ca8d",
+    "original": "ubuntu-server-logo.svg"
+  },
+  {
+    "key": "bodhi",
+    "kind": "logo",
+    "url": "https://raw.githubusercontent.com/BodhiDev/bodhi-backgrounds/main/bl6/Bodhi_Background/icon_bodhi.png",
+    "asset": "branding/bodhi-logo.png",
+    "sha256": "1cb3e9e40700f587fa27e04ca95bf26041a32b085efb08988ee62559dcccf83b",
+    "original": "bodhi-logo.img"
+  },
+  {
+    "key": "windowsxp",
+    "kind": "logo",
+    "url": "https://en.wikipedia.org/wiki/Windows_XP",
+    "asset": "branding/windowsxp-logo.png",
+    "sha256": "7ae76b76aff681eb29b4f0ffec58e15e057ccd84837fb16ca9c73d75fd104d5f",
+    "original": "windowsxp-logo.svg"
+  },
+  {
+    "key": "windowsxp",
+    "kind": "cover",
+    "url": "https://en.wikipedia.org/wiki/Windows_XP",
+    "asset": "branding/windowsxp-cover.webp",
+    "sha256": "55c204cee4bdede24dcae87217c9e2fc3d1e255b55a78b09cbf3eec97944fcc4",
+    "original": "windowsxp-cover.img"
+  },
+  {
+    "key": "windows7",
+    "kind": "logo",
+    "url": "https://en.wikipedia.org/wiki/Windows_7",
+    "asset": "branding/windows7-logo.png",
+    "sha256": "b5365d7a7d04388792c6812d36099b3f452ab8cc7689fa03f1cea0d0da6fa2c1",
+    "original": "windows7-logo.svg"
+  },
+  {
+    "key": "windows7",
+    "kind": "cover",
+    "url": "https://en.wikipedia.org/wiki/Windows_7",
+    "asset": "branding/windows7-cover.webp",
+    "sha256": "da853d3a109290ce9d5c58ce31bf2e2757a77bfe2ea38292294c1084157cd31d",
+    "original": "windows7-cover.img"
+  }
+]

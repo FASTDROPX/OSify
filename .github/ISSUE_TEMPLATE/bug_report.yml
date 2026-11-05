@@ -1,0 +1,35 @@
+name: Bug report / Ошибка
+description: Report a reproducible app, download or guest boot problem.
+title: "[Bug]: "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: OSify version
+      placeholder: 0.4.12
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and Android version
+      description: Include device ABI (ARM64 or x86_64) if known.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: What happened?
+      description: Steps, expected result and actual result. Screenshots help.
+    validations:
+      required: true
+  - type: textarea
+    id: machine
+    attributes:
+      label: Guest and machine settings
+      description: For VM issues, include ISO filename/source, architecture, BIOS/UEFI, chipset, CPU model, RAM and cores. Do not attach an installation ISO or product key.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Redacted OSify TXT log
+      description: Attach the exported log. Review it first and remove private information; never post passwords, product keys or guest file-transfer URLs.

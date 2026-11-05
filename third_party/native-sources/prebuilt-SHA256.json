@@ -1,0 +1,20 @@
+{
+  "lib/arm64-v8a/liblimbo.so": "d97a8309c81091c52f5f8cce685ca75ffb50b2aa3bf7bca1e6651a973ba194ca",
+  "lib/arm64-v8a/libcompat-musl.so": "5d0402181108ad7f0ceae2571b43bf1c617d33c3c6c02bd64b2725483609c07c",
+  "lib/arm64-v8a/libcompat-SDL2-addons.so": "50fc17a3136f3e7ced8e7bddd576e10f77a9c4f603b80d5098f16b900bc0cb29",
+  "lib/x86_64/libcompat-SDL2-addons.so": "54d4cfcc63f24ed806a9d57e2547952d265814789a2bb2e9e2d6a8fc5cf325d8",
+  "lib/x86_64/libSDL2.so": "a230fd1ab64ff5f12ffc6b9ed93b1008e61b0a550e9bf3e49da380ec036f7d93",
+  "lib/arm64-v8a/libpixman-1.so": "e78e125ae1e4c40ece73e3b33a688cb2a9afb61270b99affaba174551869bd18",
+  "lib/arm64-v8a/libSDL2.so": "bc60dcbb52b73a6854454657b656d0f9b68be40f68d2cc4971f0954115d3e6f0",
+  "lib/x86_64/libcompat-musl.so": "52035de1677ebc23d8038ffb2021e5a4cd4274df8c10fb38d0869fef29c166a6",
+  "lib/x86_64/libglib-2.0.so": "94c52e1a8bf2966007c7406f74fba8a75dcf89a5ddbb189ae68ddbb0b5facc38",
+  "lib/arm64-v8a/libcompat-limbo.so": "011aef7c3ce279e6a88dcaed1864d7bdfb02731e9004442a7f7b3471d4602b67",
+  "lib/x86_64/libqemu-system-x86_64.so": "8530d55a0748c0be2efb9c1e0b7fdd9b641d2e1128878012b7f40ad5dc4e36ac",
+  "lib/arm64-v8a/libcompat-SDL2-ext.so": "0f52d5fce5e0c3be5f42849c32ff6d3f700e9e71d9191680ce468c98a8c5cf74",
+  "lib/arm64-v8a/libqemu-system-x86_64.so": "a45356a2bb868722571a91064fa865903e343062094f9f3c019adf4a9b1410c3",
+  "lib/x86_64/libcompat-SDL2-ext.so": "bcf3ee350a7f6685b0dcccd6bd7a69fea7d2b9e7ab9eb5bb4f9d879721f905d6",
+  "lib/x86_64/libpixman-1.so": "289d127fd65cad9dc457afdbef88bb94f959b742451e00842e7c798017c4de5f",
+  "lib/x86_64/libcompat-limbo.so": "28c7e69d751dbdf64e2a5b2a6d715b4e5871e35ad6ebc595f0fac6d357f1f2fa",
+  "lib/x86_64/liblimbo.so": "bd5200e80f0b2f76027c55af128b80abd6a7bce2ef74521f27ce7100cdc5b9c0",
+  "lib/arm64-v8a/libglib-2.0.so": "96caaccc314bbc504a6e138dda9b9a831a4d982b8268392e8908a589a3addb71"
+}

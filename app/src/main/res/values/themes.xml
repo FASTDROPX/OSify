@@ -1,0 +1,15 @@
+<resources>
+    <color name="brand_background">#91C8FF</color>
+    <style name="Theme.OSify" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">@color/brand_background</item>
+        <item name="android:colorAccent">#B7A3FF</item>
+    </style>
+    <style name="Theme.OSify.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/brand_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_brand</item>
+        <item name="postSplashScreenTheme">@style/Theme.OSify</item>
+    </style>
+</resources>

@@ -1,0 +1,209 @@
+OSify operating-system tiles (0.4.1)
+
+Windows Bloom: Microsoft Corporation. Downloaded from the Windows wallpaper collection at https://github.com/viridivn/windows11wallpapers/blob/master/Windows/img19.jpg . A reduced 960px WebP copy is included for identifying the operating system. Not an original OSify image; no open-source license or Microsoft endorsement is claimed. Windows is a Microsoft trademark.
+
+Ubuntu wallpaper: Ubuntu community / Canonical; warty-final-ubuntu.png, https://git.launchpad.net/ubuntu-wallpapers/plain/warty-final-ubuntu.png . License CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/ . Included as a reduced WebP. Full upstream attribution/copyright list is supplied in docs/artwork/ubuntu-wallpapers-copyright.txt with source distribution. Ubuntu is a Canonical trademark.
+
+Alpine tile mountain photograph: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b . Unsplash license, https://unsplash.com/license . Included as a reduced WebP. It illustrates an Alpine environment and is not an official Alpine wallpaper.
+
+Ubuntu and Alpine marks: Simple Icons, CC0, https://github.com/simple-icons/simple-icons/tree/develop/icons (ubuntu.svg and alpinelinux.svg). Converted to Android vector drawables. Trademarks remain with their respective owners.
+
+The terminal illustration and tile layouts are original OSify UI. These pictures are decorative; they do not show a running guest or certify that an imported image boots.
+
+OS logo update 0.4.2: Windows 11, Windows 10, Ubuntu and Alpine source images supplied by the user. Original files are retained. UI applies transparent clipping and the same visible 40dp height within a transparent 48dp viewport; no background plaque is drawn.
+
+
+OSify 0.4.9 wallpaper replacements (unchanged content, downscaled to JPEG for the app):
+antix: https://raw.githubusercontent.com/LinuxKits/Distro-wallpapers/main/antiX/19/login/antiX-ice.jpg
+archlinux: https://raw.githubusercontent.com/LinuxKits/Distro-wallpapers/main/Arch/Wallpapers/archlinux-arrival.jpg
+edubuntu: https://raw.githubusercontent.com/LinuxKits/Distro-wallpapers/main/Edubuntu%20%28Discontinued%29/edubuntu-liquid-blue.jpg
+gentoo: https://raw.githubusercontent.com/LinuxKits/Distro-wallpapers/main/Gentoo/Wallpapers/gentoo-larry-bg-1920x1080.png
+debian: https://sources.debian.org/data/main/d/desktop-base/5.0.3/backgrounds/debian-blueish-wallpaper-640x480.png
+ubuntu_kylin: https://raw.githubusercontent.com/ubuntukylin/ubuntukylin-theme/Debian/usr/share/grub/themes/UKUI/background.png
+nixos: User supplied image 2026-11-04
+XP and NixOS use the exact photographs supplied by the user. Existing trademarks/photograph copyright stay with their owners.
+
+
+OSify 0.4.9 wallpaper replacements (unchanged content, downscaled to JPEG for the app):
+antix: https://raw.githubusercontent.com/LinuxKits/Distro-wallpapers/main/antiX/19/login/antiX-ice.jpg
+archlinux: https://raw.githubusercontent.com/LinuxKits/Distro-wallpapers/main/Arch/Wallpapers/archlinux-arrival.jpg
+archcraft: https://raw.githubusercontent.com/archcraft-os/archcraft-wallpapers/main/archcraft-backgrounds/files/default.jpg
+edubuntu: https://raw.githubusercontent.com/LinuxKits/Distro-wallpapers/main/Edubuntu%20%28Discontinued%29/edubuntu-liquid-blue.jpg
+fedora: https://raw.githubusercontent.com/LinuxKits/Distro-wallpapers/main/Fedora/34/F34_default_wallpaper_day.jpg
+gentoo: https://raw.githubusercontent.com/LinuxKits/Distro-wallpapers/main/Gentoo/Wallpapers/gentoo-larry-bg-1920x1080.png
+kubuntu: https://raw.githubusercontent.com/LinuxKits/Distro-wallpapers/main/Kubuntu/19.04/wallpapers/Autumn/contents/images/1920x1080.jpg
+ubuntu_budgie: https://raw.githubusercontent.com/ubuntubudgie/budgie-wallpapers/master/Xplo_by_Hugo_Cliff.jpg
+ubuntu_cinnamon: https://raw.githubusercontent.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-wallpapers/master/usr/share/backgrounds/ubuntucinnamon/Ubuntu_Cinnamon_Gradient.jpg
+ubuntu_mate: https://raw.githubusercontent.com/ubuntu-mate/ubuntu-mate-artwork/master/usr/share/backgrounds/ubuntu-mate-common/Green-Wall-Logo.png
+xubuntu: https://raw.githubusercontent.com/Xubuntu/xubuntu-artwork/master/usr/share/xfce4/backdrops/xubuntu-jammy.png
+ghostbsd: https://raw.githubusercontent.com/ghostbsd/ghostbsd-wallpapers/master/blue-mountain.jpg
+debian: https://sources.debian.org/data/main/d/desktop-base/5.0.3/backgrounds/debian-blueish-wallpaper-640x480.png
+ubuntu_kylin: https://raw.githubusercontent.com/ubuntukylin/ubuntukylin-theme/Debian/usr/share/grub/themes/UKUI/background.png
+windowsxp: User supplied image 2026-11-04
+nixos: User supplied image 2026-11-04
+XP and NixOS use the exact photographs supplied by the user. Existing trademarks/photograph copyright stay with their owners.
+
+
+OSify 0.4.10 preview update — 2026-11-04
+
+artixlinux: Artix Linux artwork contributors
+https://github.com/artix-linux/artwork/blob/master/backgrounds/Artix_wallpaper.png
+License: No explicit artwork license found
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+Official project repository; redistribution permission remains unconfirmed.
+
+chimeralinux: Chimera Linux artwork contributors
+https://github.com/chimera-linux/chimera-artwork/blob/master/breeze-previews/breeze-fullscreenpreview.jpg
+License: CC-BY-SA-4.0
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+
+
+debian: Elise Couper (Ceratopsian)
+https://deb.debian.org/debian/pool/main/d/desktop-base/desktop-base_13.0.4_all.deb
+License: GPL-2.0-or-later
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+Debian 13 official theme; not an unrelated old Debian 5 wallpaper.
+
+devuan: Devuan desktop-base artists (see copyright)
+https://git.devuan.org/devuan/desktop-base/src/branch/master/backgrounds/your-way_sapphire_1080p.png
+License: Specific Sapphire wallpaper license not confirmed by available upstream notice
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+Official Sapphire theme; version may differ from the current ISO.
+
+fedora: Fedora Design Team
+https://commons.wikimedia.org/wiki/File:Fedora_43_default_wallpaper.png
+License: CC-BY-SA-4.0
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+Official Fedora 43 default; source upstream: https://github.com/fedoradesign/backgrounds/blob/f43-backgrounds/default/f43-01-day.jxl
+
+edubuntu: Lucas George Wendt (2020)
+https://archive.ubuntu.com/ubuntu/pool/universe/e/edubuntu-artwork/edubuntu-wallpapers_26.04.11_all.deb
+License: Unsplash License
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+Actual image shipped in Edubuntu 26.04 wallpaper package.
+
+garuda: Garuda Linux artwork contributors
+https://gitlab.com/garuda-linux/themes-and-settings/artwork/garuda-wallpapers/-/blob/master/src/garuda-wallpapers/Black%20Eagle.png
+License: GPL-3.0
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+
+
+kubuntu: Sandra Smukaste
+https://github.com/KDE/plasma-workspace-wallpapers/blob/master/Flow/contents/images/5120x2880.jpg
+License: CC-BY-SA-4.0
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+KDE Plasma Flow wallpaper from upstream; not a screenshot of a different distribution.
+
+lubuntu: Aaron Rainbolt / MediaMom Ministries (package notice)
+https://archive.ubuntu.com/ubuntu/pool/universe/l/lubuntu-artwork/lubuntu-artwork_26.04.3_all.deb
+License: CC-BY-SA-4.0
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+
+
+ubuntu_studio: Eylul Dogruel (2024–2026)
+https://archive.ubuntu.com/ubuntu/pool/universe/u/ubuntustudio-look/ubuntustudio-wallpapers-resolute_26.04.12_all.deb
+License: CC-BY-SA-4.0
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+
+
+ubuntu_unity: Ariel Closs Novais (2026)
+https://archive.ubuntu.com/ubuntu/pool/universe/u/ubuntu-unity-backgrounds/ubuntu-unity-backgrounds_26.04-0ubuntu1_all.deb
+License: GPL-3.0
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+
+
+ubuntu: Canonical / Ubuntu Design Team
+https://archive.ubuntu.com/ubuntu/pool/main/u/ubuntu-wallpapers/ubuntu-wallpapers_26.04.2_all.deb
+License: CC-BY-SA-3.0; see package copyright
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+
+
+alpine: Alpine Linux development team; uploaded by Ahunt
+https://commons.wikimedia.org/wiki/File:Alpine_Linux_Xfce_-_English.png
+License: GPL-2.0-or-later
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+2022 optional Xfce desktop, not a promise that the minimal virt ISO includes a desktop.
+
+ubuntu_server: Canonical / Ubuntu Server documentation contributors
+https://documentation.ubuntu.com/server/_images/92bda8a0-basic_installation_1.png
+License: CC-BY-SA-3.0 (Ubuntu documentation; verify image-specific rights)
+Proportional resize and JPEG/WebP compression; displayed with existing proportional crop and text gradient.
+Real Subiquity installer. Kept original 800×600; never upscaled. Server has no default graphical desktop.
+
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+GPL 2: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+GPL 3: https://www.gnu.org/licenses/gpl-3.0.html
+Unsplash: https://unsplash.com/license
+Copies of applicable upstream notices: artwork-licenses-0.4.10/. Original artwork: third_party/artwork-0.4.10/ in source distribution. Artwork derivatives retain their respective licenses; OSify is not endorsed by these projects.
+Windows/Tiny previews retained: proprietary Microsoft imagery, no blanket redistribution permission asserted. Tiny10/Tiny11 are NTDEV modifications.
+
+
+OSify 0.4.11 — user-selected covers, 2026-11-04
+Replaces the active preview sources for these 13 keys; earlier entries remain historical.
+
+1. Windows 7 — app/src/main/assets/branding/windows7-cover.webp
+Source: user attachment codex-clipboard-0c845357-ab16-4185-9321-1c70d0af67ed.jpg
+Original SHA-256: 9bdc384ed3fe5a95f9f542a695fa3bc451fc78d80f641b07e7cd4892b7f6ad08
+Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.
+
+2. Windows 10 / Tiny10 — app/src/main/assets/branding/windows10-cover.webp
+Source: user attachment codex-clipboard-c2a29e1c-34d2-4788-b18b-ca35db03678a.jpg
+Original SHA-256: 1f817a6236e453fc9d7ef659c7f53a887514dea105fda08dbd0d3ae40dc2d81a
+Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.
+
+3. Alpine Linux — app/src/main/assets/branding/alpine-cover.webp
+Source: user attachment codex-clipboard-a782c3ee-21c4-4fa2-ba1c-b7343f07fa95.jpg
+Original SHA-256: ad8c26b10df63fc446ebfbdbe3e8b1fe7ecd5e12c070e13423242d75433ada01
+Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.
+
+4. AlmaLinux — app/src/main/assets/branding/alma-cover.webp
+Source: user attachment codex-clipboard-ceaaf230-ce04-46bb-8081-b4a546c34ff7.jpg
+Original SHA-256: 21df68ef0a5ee86f8ad8fb98cb53a877609e28d2b1215aa7a809b1958a43cec4
+Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.
+
+5. antiX Linux — app/src/main/assets/branding/antix-cover.jpg
+Source: user attachment codex-clipboard-c759ac3c-d937-4d10-b3db-a39bdd882703.jpg
+Original SHA-256: 1eb3a144236d35c4ecbfea89e8fc33f9e300ecfdc62b5e70cdd20a8662d2a0af
+Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.
+
+6. Arch Linux — app/src/main/assets/branding/archlinux-cover.jpg
+Source: user attachment codex-clipboard-490cdf87-7a99-41f8-b2d9-3fa831115421.png
+Original SHA-256: 97656b2c562c3132d8be2bb31579340e5a8306190874c835af6a77a5bb9f8c13
+Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.
+
+7. Artix Linux — app/src/main/assets/branding/artixlinux-cover.webp
+Source: user attachment codex-clipboard-8e3cf798-d634-4eb5-bc63-08994ad15cff.jpg
+Original SHA-256: a2b7f9c3cadc10fefbd0a1eb4f94edddbdeaa6dc2e177ce4777bf03bdf3421bc
+Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.
+
+8. CachyOS — app/src/main/assets/branding/cachyos-cover.webp
+Source: user attachment codex-clipboard-fc198cb0-1771-47eb-8969-79e31065da2e.jpg
+Original SHA-256: 773821172ca990c390d86c68b396484da2719cd74dd405e2a69a4714213896d0
+Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.
+
+9. Chimera Linux — app/src/main/assets/branding/chimeralinux-cover.webp
+Source: user attachment codex-clipboard-3f270d5b-1af5-4105-99cf-a3f5ae210836.png
+Original SHA-256: b983ca0bad2c76c25398845facbe7afe88da2fb625e923fc853fdbe57f88799d
+Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.
+
+10. Edubuntu — app/src/main/assets/branding/edubuntu-cover.jpg
+Source: user attachment codex-clipboard-8af29ed0-1c3c-4584-98a2-f4e250c0bc2b.webp
+Original SHA-256: 68361fc8580b09a0f7de1c279383c3b3a18fb8e0a99008413b8245a2f1c1ac95
+Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.
+
+11. Fedora — app/src/main/assets/branding/fedora-cover.jpg
+Source: user attachment codex-clipboard-45a27b50-b347-4e0d-8b34-bc892c4e4217.jpg
+Original SHA-256: 01b1f412d8c96557c5910c64bddeeaa3ff884ee707f083f704dba98a488c2159
+Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.
+
+12. FreeDOS — app/src/main/assets/branding/freedos-cover.webp
+Source: user attachment codex-clipboard-6d6abbd5-2d5e-4eaa-901c-dc9f6838150e.png
+Original SHA-256: 7ae936a9f365f3581f6cc78d3ccae614d824e286202bdb8a11c100ca9aaafa4d
+Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.
+
+13. Ubuntu Server — app/src/main/assets/branding/ubuntu_server-cover.webp
+Source: user attachment codex-clipboard-178924df-e6bc-4e45-b8c1-a546693862fe.jpg
+Original SHA-256: 5e02dbc0d9756850b123d8e296897701365842469deedb8a5e099a4cd8b0d0d7
+Proportional downscale only, no upscaling; JPEG/WebP encoding. Existing UI crop and gradients unchanged.
+
+Originals included in third_party/artwork-0.4.11/ in source distribution. User-provided selection does not constitute an additional third-party copyright license.

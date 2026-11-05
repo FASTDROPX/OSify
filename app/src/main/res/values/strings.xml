@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OSify</string>
+    <string name="download_channel">Image downloads</string>
+    <string name="download_active">Downloading and verifying an OS image</string>
+    <string name="cancel">Pause</string>
+    <string name="runtime_preparing">Preparing QEMU and selected ISO</string>
+    <string name="runtime_cancel_transfer">Cancel transfer</string>
+</resources>
